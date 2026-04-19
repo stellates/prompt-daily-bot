@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Local data
+report.json
+backnumber.json
+
+# OS
+.DS_Store
+
+# Logs
+*.log
